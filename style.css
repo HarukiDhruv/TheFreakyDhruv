@@ -394,6 +394,7 @@ h2 {
 
 .skills-box h3 {
   display: flex; /* Flex layout */
+  text-decoration: underline;
   align-items: center; /* Vertical centering */
   justify-content: center; /* Horizontal centering */
   font-size: 24px; /* Optional: Adjust font size for emphasis */
